@@ -13,8 +13,8 @@
 ### 1) Клонирование репозитория
 
 ```bash
-git clone https://github.com/<USERNAME>/<REPO>.git
-cd <REPO>
+git clone https://github.com/AlexDoniy/space-scutum-assignment.git
+cd space-scutum-assignment
 ```
 
 ---
